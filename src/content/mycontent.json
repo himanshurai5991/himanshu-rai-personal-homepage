@@ -20,21 +20,8 @@
 		"I am currently full time Associate Software Engineer at Infinite Computer Solutions."
 	],
 	"WorkImage": "http://www.msmedia.tv/wp-content/uploads/2015/10/client2.jpg",
-	/*"InternshipsStartLine": "Previously, I have interned with :",
-	"InternShips": [{
-			"name": "Amazon India",
-			"link": "#"
-		},
-		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-		},
-		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
-		}
-	],*/
-	/*"ProjectsStartLine": "Some of the projects I did can be found here :",
+	
+	"ProjectsStartLine": "Some of the projects I did can be found here :",
 	"Projects": [{
 			"name": "EisenList",
 			"link": "https://github.com/adityaketkar/eisenlist"
@@ -51,7 +38,7 @@
 			"name": "Gatsby Personal Webpage",
 			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
 		}
-	],*/
+	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
 	"CV": "https://drive.google.com/file/d/1ba5b-ioQMZ0wM75oJcmUj7ar-irgOx6f/view?usp=sharing",
@@ -59,10 +46,7 @@
 
 	"emailid": "mailto:himanshurai5991@gmail.com",
 	"linkedin": "https://www.linkedin.com/in/himanshu-rai-48953a136/",
-	//"wordpress": "https://technoshblog.wordpress.com/",
 	"facebook": "https://www.facebook.com/profile.php?id=100008414912442",
 	"github": "https://github.com/himanshurai5991",
 	"instagram": "https://www.instagram.com/himanshurai5991/",
-	//"twitter": "https://twitter.com/ketkar_a",
-	//"medium": "https://medium.com/@ketkaraditya"
 }
