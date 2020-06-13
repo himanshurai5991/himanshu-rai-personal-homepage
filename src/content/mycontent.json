@@ -1,26 +1,26 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Himanshu's Rai | Personal Webpage",
+	"Name": "Himanshu Rai",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
-		"I grab every chance I get to travel, learn and create."
+		"Graduated from I.E.R.T Allahabad. Passionate about backend development , competitive programming .",
+		"I grab every chance that I get to learn ,create and develop."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
-	"BackgroundURL": "",
+	"MainImage": "https://imgur.com/B8vD15d",
+	"BackgroundURL": "https://i.pinimg.com/originals/01/6f/22/016f22a79f2771d2d20a04c104a3d9a3.jpg",
 
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "https://imgur.com/Cpthj6I",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+		"I’m Software Engineer working with code most of the time, a dancer , watch sports and  play games ",
+		"I am an introvert talk less ,silent, shy and pensive",
+		"I am passionate about AI and Machine Learning (although, don't have any idea about them formally).",
+		"I admire the concept of thing that are done for the \"work\". I put efforts towards my interests and dreams of achieving greatness."
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		"I am currently full time Associate Software Engineer at Infinite Computer Solutions."
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
+	"WorkImage": "http://www.msmedia.tv/wp-content/uploads/2015/10/client2.jpg",
+	/*"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
 			"name": "Amazon India",
 			"link": "#"
@@ -33,8 +33,8 @@
 			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
 			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
 		}
-	],
-	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+	],*/
+	/*"ProjectsStartLine": "Some of the projects I did can be found here :",
 	"Projects": [{
 			"name": "EisenList",
 			"link": "https://github.com/adityaketkar/eisenlist"
@@ -51,18 +51,18 @@
 			"name": "Gatsby Personal Webpage",
 			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
 		}
-	],
+	],*/
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1yhfRELr2NYqAjbajnWGX0SfFmoK3r7d7/view?usp=sharing",
+	"CV": "https://drive.google.com/file/d/1ba5b-ioQMZ0wM75oJcmUj7ar-irgOx6f/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1BG-IIxRqn5CYfnu4Qhr0fc5mEEkgW17s/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "mailto:himanshurai5991@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/himanshu-rai-48953a136/",
+	//"wordpress": "https://technoshblog.wordpress.com/",
+	"facebook": "https://www.facebook.com/profile.php?id=100008414912442",
+	"github": "https://github.com/himanshurai5991",
+	"instagram": "https://www.instagram.com/himanshurai5991/",
+	//"twitter": "https://twitter.com/ketkar_a",
+	//"medium": "https://medium.com/@ketkaraditya"
 }
