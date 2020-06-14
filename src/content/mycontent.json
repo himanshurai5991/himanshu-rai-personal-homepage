@@ -1,53 +1,53 @@
 {
-    "Title": "Himanshu's Rai | Personal Webpage",
-    "Name": "Himanshu Rai",
-    "Description": [
-        "Graduated from I.E.R.T Allahabad. Passionate about backend development , competitive programming .",
-        "I grab every chance that I get to learn ,create and develop."
-    ],
-    "MainImage": "https://imgur.com/B8vD15d",
-    "BackgroundURL": "https://i.pinimg.com/originals/01/6f/22/016f22a79f2771d2d20a04c104a3d9a3.jpg",
+	"Title": "Himanshu's Rai | Personal Webpage",
+	"Name": "Himanshu Rai",
+	"Description": [
+		"Graduated from I.E.R.T Allahabad. Passionate about backend development , competitive programming .",
+		"I grab every chance that I get to learn ,create and develop."
+	],
+	"MainImage": "https://imgur.com/B8vD15d",
+	"BackgroundURL": "https://i.pinimg.com/originals/01/6f/22/016f22a79f2771d2d20a04c104a3d9a3.jpg",
 
-    "AboutImage": "https://imgur.com/Cpthj6I",
-    "AboutContent": [
-        "I’m Software Engineer working with code most of the time, a dancer , watch sports and  play games ",
-        "I am an introvert talk less ,silent, shy and pensive",
-        "I am passionate about AI and Machine Learning (although, don't have any idea about them formally).",
-        "I admire the concept of thing that are done for the \"work\". I put efforts towards my interests and dreams of achieving greatness."
-    ],
+	"AboutImage": "https://imgur.com/Cpthj6I",
+	"AboutContent": [
+		"I’m Software Engineer working with code most of the time, a dancer , watch sports and  play games ",
+		"I am an introvert talk less ,silent, shy and pensive",
+		"I am passionate about AI and Machine Learning (although, don't have any idea about them formally).",
+		"I admire the concept of thing that are done for the \"work\". I put efforts towards my interests and dreams of achieving greatness."
+	],
 
-    "WorkContent": [
-        "I am currently full time Associate Software Engineer at Infinite Computer Solutions."
-    ],
-    "WorkImage": "https://imgur.com/4T7LBkm",
-    "InternshipsStartLine": "",
-    "InternShips": [],
-    "ProjectsStartLine": "Some of the projects I did can be found here :",
-    "Projects": [{
-            "name": "a",
-            "link": ""
-        },
-        {
-            "name": "b",
-            "link": ""
-        },
-        {
-            "name": "c",
-            "link": ""
-        },
-        {
-            "name": "",
-            "link": ""
-        }
-    ],
+	"WorkContent": [
+		"I am currently full time Associate Software Engineer at Infinite Computer Solutions."
+	],
+	"WorkImage": "https://imgur.com/4T7LBkm",
+	"InternshipsStartLine": "",
+	"InternShips": [],
+	"ProjectsStartLine": "Some of the projects I did can be found here :",
+	"Projects": [{
+			"name": "a",
+			"link": ""
+		},
+		{
+			"name": "b",
+			"link": ""
+		},
+		{
+			"name": "c",
+			"link": ""
+		},
+		{
+			"name": "",
+			"link": ""
+		}
+	],
 
-    "CVStartLine": "I am always open to work in challenging enviornmnet and cutting edge technologies and do you have anything for me lets connect. ",
-    "CV": "https://drive.google.com/file/d/1ba5b-ioQMZ0wM75oJcmUj7ar-irgOx6f/view?usp=sharing",
-    "Resume": "https://drive.google.com/file/d/1BG-IIxRqn5CYfnu4Qhr0fc5mEEkgW17s/view?usp=sharing",
+	"CVStartLine": "I am always open to work in challenging enviornmnet and cutting edge technologies and do you have anything for me lets connect. ",
+	"CV": "https://drive.google.com/file/d/1ba5b-ioQMZ0wM75oJcmUj7ar-irgOx6f/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1BG-IIxRqn5CYfnu4Qhr0fc5mEEkgW17s/view?usp=sharing",
 
-    "emailid": "mailto:himanshurai5991@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/himanshu-rai-48953a136/",
-    "facebook": "https://www.facebook.com/profile.php?id=100008414912442",
-    "github": "https://github.com/himanshurai5991",
-    "instagram": "https://www.instagram.com/himanshurai5991"
+	"emailid": "mailto:himanshurai5991@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/himanshu-rai-48953a136/",
+	"facebook": "https://www.facebook.com/profile.php?id=100008414912442",
+	"github": "https://github.com/himanshurai5991",
+	"instagram": "https://www.instagram.com/himanshurai5991"
 }
