@@ -21,7 +21,7 @@
     A Customizable Personal-Website Template, Ready to Deploy in 10 mins!
     <br />
     <br />
-    <a href="https://adityaketkar.netlify.app/">View Demo</a>
+    <a href="https://himanshurai.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/adityaketkar/circle-packing-personal-homepage/issues">Report Bug</a>
     ·
@@ -172,7 +172,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aditya Ketkar - [@adityaketkar](https://linkedin.com/in/adityaketkar) - adityaketkar848@gmail.com
+Aditya Ketkar - [@adityaketkar](https://www.linkedin.com/in/himanshu-rai-48953a136/) - himanshurai5991@gmail.com
 
 Project Link: [https://github.com/adityaketkar/circle-packing-personal-homepage](https://github.com/adityaketkar/circle-packing-personal-homepage)
 
@@ -199,6 +199,4 @@ Project Link: [https://github.com/adityaketkar/circle-packing-personal-homepage]
 [license-shield]: https://img.shields.io/github/license/adityaketkar/circle-packing-personal-homepage
 [license-url]: https://github.com/adityaketkar/circle-packing-personal-homepage/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/adityaketkar
-[twitter-shield]: https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fadityaketkar%2Fcircle-packing-personal-homepage
-[twitter-url]:https://twitter.com/Ketkar_A
+[linkedin-url]: https://www.linkedin.com/in/himanshu-rai-48953a136/
