@@ -5,7 +5,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
 
 
 
@@ -172,9 +171,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aditya Ketkar - [@adityaketkar](https://www.linkedin.com/in/himanshu-rai-48953a136/) - himanshurai5991@gmail.com
+Himanshu Rai - [@HimanshuRai](https://www.linkedin.com/in/himanshu-rai-48953a136/) - himanshurai5991@gmail.com
 
-Project Link: [https://github.com/adityaketkar/circle-packing-personal-homepage](https://github.com/adityaketkar/circle-packing-personal-homepage)
+Project Link: [https://github.com/himanshurai5991/himanshu-rai-personal-homepage](https://github.com/himanshurai5991/himanshu-rai-personal-homepage)
 
 
 
