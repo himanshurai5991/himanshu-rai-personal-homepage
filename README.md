@@ -22,9 +22,9 @@
     <br />
     <a href="https://himanshurai.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/adityaketkar/circle-packing-personal-homepage/issues">Report Bug</a>
+    <a href="https://github.com/himanshurai5991/himanshu-rai-personal-homepage/issues">Report Bug</a>
     ·
-    <a href="https://github.com/adityaketkar/circle-packing-personal-homepage/issues">Request Feature</a>
+    <a href="https://github.com/himanshurai5991/himanshu-rai-personal-homepage/issues">Request Feature</a>
   </p>
 </p>
 
