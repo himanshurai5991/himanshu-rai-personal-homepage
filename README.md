@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://adityaketkar.netlify.app/">
+  <a href="https://himanshurai.netlify.app.netlify.app/">
     <img src="images/logo.png" alt="Logo" width="60%" height="40%">
   </a>
 
@@ -26,7 +26,6 @@
     ·
     <a href="https://github.com/himanshurai5991/himanshu-rai-personal-homepage/issues">Request Feature</a>
   </p>
-</p>
 
 
 
