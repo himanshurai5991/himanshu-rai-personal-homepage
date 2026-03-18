@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Want to have strong online presence without spending months coding up a website? 
+Want to have a strong online presence without spending months coding up a website? 
 
 This project is a FREE, EASY and CUSTOMIZABLE webpage template, made to deploy within 10 minutes  with **NO CODING REQUIRED**!
 
@@ -77,15 +77,15 @@ If you just want to use the template, no need to clone/download this repo. The f
 3. The site should now be live at the URL shown to you by Netlify. Let's now change the content of the site to make it YOURS :)
 Firstly, upload all the photos you want to use in your website to [imgur](https://imgur.com/upload). Take a look at the [demo](https://adityaketkar.netlify.app/) to decide what photos you would like to use.
 
-4. Now, open your github account and navigate to the cloned repository (a clone of this project) that Netlify made for you. Then go to 
+4. Now, open your GitHub account and navigate to the cloned repository (a clone of this project) that Netlify made for you. Then go to 
 
 ```src > content > mycontent.json```
 
 5. Press the ```Edit``` butoon on top-right of the file window. 
 
-6. Edit the data present there according to your choice. You should be familiar with the JSON file format. If you're not, no big deal. Take a quick tutorial [here](https://www.youtube.com/watch?v=iiADhChRriM). 
+6. Edit the data presented there according to your choice. You should be familiar with the JSON file format. If you're not, no big deal. Take a quick tutorial [here](https://www.youtube.com/watch?v=iiADhChRriM). 
 
-* On imgur, right click on your photo and select ``` Copy Image Location ```. Paste these links in the fields which require URL of photos in ```mycontent.json```
+* On imgur, right-click on your photo and select ``` Copy Image Location ```. Paste these links in the fields which require URL of photos in ```mycontent.json```
 * Array elements are rendered as seperate paragraphs for ```Description``` and ```*Content``` fields. The links are also to be input as Array of JS objects. Explaination on this can be found [here](https://github.com/adityaketkar/circle-packing-personal-homepage/wiki/Guidelines-for-editing-mycontent.json)
 
 7. When done with editing, check the ``` Commit directly to the master branch ``` radio box, add a relevant commit message and click on ``` Commit Changes ```

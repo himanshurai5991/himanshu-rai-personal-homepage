@@ -18,6 +18,11 @@ module.exports = {
         icon: 'src/images/rocket.png', // This path is relative to the root of the site.
       },
     },
-    'gatsby-plugin-sass',
+    {
+      resolve: 'gatsby-plugin-sass',
+      options: {
+        implementation: require('sass'),
+      },
+    },
   ],
 }
